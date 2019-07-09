@@ -1,5 +1,5 @@
 # CellAssess
-the coursework to find contours of cells and its nucleuses
+the task of coursework is to find contours of cells and its nucleuses
 
 the snake Algorithm used in code is fetched from https://github.com/pmneila/morphsnakes
 
